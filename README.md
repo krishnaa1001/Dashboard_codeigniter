@@ -19,8 +19,8 @@ This repository contains a CodeIgniter 4.x web application starter with features
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/krishnaa1001/Dashboard_codeigniter.git
 cd your-repository-name
 
-and chage database name also
+and change database name also
 ```
